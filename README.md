@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Stiven Benjumea</h1>
 <h3 align="center">A passionate full stack developer from Colombia</h3>
 
-- 👯 I’m looking to collaborate on **ReactJs & JavaScript**
+- 👯 I’m looking to collaborate on **JavaScript $ Laravel**
 
 - 🤝 I’m looking for help with **NULL**
 
-- 💬 Ask me about **ReactJs & NodeJS**
 
 - 📫 How to reach me **stevenbenjumea9@gmail.com**
   
